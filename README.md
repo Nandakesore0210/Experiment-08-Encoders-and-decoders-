@@ -1,5 +1,10 @@
 # Experiment-08- Encoders-and-decoders 
 ### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
+### Developed by:
+J.Nandakesore
+
+### Register Number:
+23009689
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
@@ -55,42 +60,54 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
+1.create module encoder and decoder.
 
+2.Get inputs and outputs for encoders and decoders.
 
+3.perform or operation for encoder and and logic for decoders.
+
+4.perform RTL LOGIC and get waveform.
 
 ### PROGRAM 
-/*
-Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
+## Encoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/eff98ebf-7091-4ab7-9f3a-698ad75837dd)
 
+## Decoder:
 
-
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/9c45b126-ecfe-4166-9b30-f676866b06ad)
 
 ### RTL LOGIC  
 
+## Encoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/44c9a167-8f5c-482c-8dfc-4ae8b462a5b4)
 
+## Decoder:
 
-
-
-
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/3849e5b6-7600-4042-b18e-ba8460703931)
 
 ### TIMING DIGRAMS  
 
+## Encoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/fe508823-0032-47a7-a99a-58dedc196d48)
 
+## Decoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/80294900-2a83-478e-86ba-6f8c99d79a46)
 
 ### TRUTH TABLE 
 
+## Encoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/22392403-e336-453c-8f6c-f2cde3b889f6)
 
+## Decoder:
 
+![image](https://github.com/Nandakesore0210/Experiment-08-Encoders-and-decoders-/assets/149365088/055145b0-8220-45fd-8ef5-1b9fe224a1a3)
 
+### RESULTS:
 
-### RESULTS 
+Thus the program to desing encoder and decoder is done.
